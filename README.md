@@ -5,7 +5,7 @@
 一套为《原神》和米游社粉丝制作的、基于“米游姬”形象的可爱Windows鼠标指针主题。
 
 ## 效果预览
-[![光标效果预览视频的封面图](./preview-thumbnail.jpg)](./preview.mp4)
+观看完整安装与效果演示视频：[点击跳转至B站观看](https://www.bilibili.com/video/BV1hTLt6KE3k/?vd_source=1de2e30996b0006bfe2c3ad7bcfac367)
 
 ## 包含内容
 - 普通选择指针
